@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"xinvest.col_investment"},{"v":2,"unique":true,"key":{"idInvest":1},"name":"index_idInvest","ns":"xinvest.col_investment","background":true}],"uuid":"5059576fa199424a99b9bc7830c0e9f4"}
